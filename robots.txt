@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walangsari.github.io/sitemap.xml
